@@ -1,1 +1,0 @@
-console.log(hello world just a simple test)
